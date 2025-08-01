@@ -9,3 +9,8 @@ Education Platform As well As Group Video Call Meeting Futures.
 - mysql
 - xammpaa
 
+## installing steup step
+- install xammpp
+- import sql file
+- admin open
+- 
